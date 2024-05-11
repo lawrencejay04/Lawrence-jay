@@ -1,0 +1,5 @@
+Tutorial
+Step 1: open terminal
+Step 2: type 'flutter pub get'
+Step 5: move the 'main.dart' to 'lib' file
+Step 6: press f5
